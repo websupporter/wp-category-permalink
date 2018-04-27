@@ -9,13 +9,13 @@ Allows manual selection of a 'main' category for each post for nicer permalinks 
 
 == Description ==
 
-This plugin allows you to select a main category (or taxonomy) for your posts for nicer permalinks and SEO.
+This plugin allows you to select a main category (or taxonomy) for your posts for nicer permalinks and SEO. For more information, please have a look here: https://meowapps.com/wp-category-permalink/.
 
-**What it does**. A custom structure such as **/%category%/%postname%/** should be usually chosen for your permalinks. By default, this %category% is selected automatically (using the lowest ID) in the case your post is assigned to more than one category. This plugin will let you pick the category of your choice from the 'Post Edit' page. The chosen category is shown in bold on the 'Posts List' page and the 'Post Edit' page.
+**What it does?** A custom structure such as **/%category%/%postname%/** should be usually chosen for your permalinks. By default, this %category% is selected automatically (using the lowest ID) in the case your post is assigned to more than one category. This plugin will let you pick the category of your choice from the 'Post Edit' page. The chosen category is shown in bold on the 'Posts List' page and the 'Post Edit' page.
 
-**Post list**. Below the title, you will see the permalink currently set-up for this entry. If a heart is present, it means that the category (or taxonomy) has been picked up.
+**Posts List**. Below the title, you will see the permalink currently set-up for this entry. If a heart is present, it means that the category (or taxonomy) has been picked up.
 
-**Post Types and Taxonomies**. It works for standard setups, but the plugin might be modified depending on the case. Don't hesitate to participate in making this plugin better with us.
+**Please contribute**. It works for standard setups, but the plugin might be modified depending on the case. Don't hesitate to participate in making this plugin better. The official git for this project is here: https://github.com/jordymeow/wp-category-permalink.
 
 **Breadcrumbs**. They have their own way of working and can't be supported automatically by default because they are created by specific themes or plugins. If you encounter issues with breadcrumbs, please say so in the Support Threads and let's see how we can make it work.
 
