@@ -47,3 +47,6 @@ add_filter( 'post_type_link', array('MWCPPost', 'post_type_link'), 10, 4 );
 
 // Disable the WPSEO v3.1+ Primary Category feature.
 add_filter( 'wpseo_primary_term_taxonomies', '__return_empty_array' );
+
+// Disable the Rank Math Primary Taxonomy feature.
+add_filter( 'rank_math/primary_term', '__return_true' );
